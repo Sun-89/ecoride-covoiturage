@@ -116,7 +116,7 @@ ecoride-covoiturage/
 # Liens utiles
 
 - **Application déployée :** [À compléter]
-- **Trello (Kanban) :** [TON LIEN TRELLO]
+- **Trello (Kanban) :** (https://trello.com/invite/b/695d6fa45cac109286854477/ATTI9710dc5dfcc3ec715c6f42afa4392eb9A0987226/ecoride-tp-dwwm)
 - **Documentation :** Voir dossier `/docs`
 
 # Identifiants de test
