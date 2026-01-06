@@ -151,8 +151,8 @@ ecoride-covoiturage/
 
 Projet académique - TP DWWM 2025
 
-## 👨‍💻 Auteur
+# Auteur
 
-**[TON NOM]**  
+**Surcin Kevin**  
 Formation : Développeur Web et Web Mobile  
 Session : Février 2025
